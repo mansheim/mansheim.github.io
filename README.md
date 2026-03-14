@@ -1,2 +1,2 @@
-# amanshei.github.io
+# manshei.github.io
 Github webpage
